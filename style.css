@@ -1,0 +1,82 @@
+@font-face {
+    font-family: new;
+    src: url(./Dancing_Script/DancingScript-VariableFont_wght.ttf);
+}
+/* body{
+background-color: gray;
+} */
+#im{
+    margin-left: 300px;
+}
+#form{
+    position: absolute;
+    top: 50px;
+    right: 140px;
+    width: 30%;
+ /* background-color: aqua; */
+
+}
+#inta{
+text-align: center;
+font-family: "new";
+font-size: 50px;
+
+}
+#text{
+    margin-left: 40px;
+    width: 250px;
+    height: 30px;
+
+}
+#pas{
+    margin-left: 40px;
+    width: 250px;
+    height: 30px;
+
+}
+#BUTT{
+    margin-left: 40px;
+    width: 260px;
+    height: 30px;
+background-color: rgb(9, 164, 236);
+border: none;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: white;
+}
+#link{
+    padding-left: 140PX;
+
+}
+#a1{
+    padding-left: 140PX; 
+}
+#new3{
+    position: absolute;
+    top: 430px;
+    /* right: 200px; */
+    right: 140px;
+    /* width: 30%;  */
+    text-align: center;
+    width: 349px;
+}
+#p{
+    position: absolute;
+    top: 500px;
+    right: 140px;
+    width: 30%; 
+    text-align: center;
+    width: 374px;
+}
+li{
+    
+    display: inline-block;
+    /* border-radius: 1/ */
+    width: 60px;
+    /* height: 40px; */
+    text-align: center;
+/* margin-left: 60px; */
+    /* padding-top: 5px; */
+color: grey;
+font-size: smaller;
+    /* background-color: blanchedalmond;  */
+}
